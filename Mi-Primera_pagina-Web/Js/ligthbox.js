@@ -1,0 +1,6 @@
+const imagenes = document.querySelector('.img-galeria')
+const imagenesligth = document.querySelector('.agregar-imagen')
+const contenedorLigth = document.querySelector('.imagen-ligth')
+console.log(imagenes)
+console.log(imagenesligth)
+console.log(imagenesligth)
